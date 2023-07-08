@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi 👋, I'm Stanislav
+## A Frontend Developer in Saint Petersburg
 
-<!--
-**StRenedas/StRenedas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🌍 I'm based in Chelyabinsk/Saint Petersburg, Russia
+* ✉️ Feel free to contact me at [strenedas@gmail.com](mailto:strenedas@gmail.com)
+* 🎓 Master's Degree in Computer Science at [South Ural State University](https://susu.ru)
+* 🧠 Interested in becoming a full-stack developer in the future, hope to acquire some deep knowledge of how backend technologies work.
+* ⚙️ Currently transforming my master's thesis work into a "pet project-ish" sandbox.
 
-Here are some ideas to get you started:
+### Languages that I use
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend technologies that I use
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,redux,sass,webpack,materialui,bootstrap,jquery" />
+  </a>
+  <p align="center">+ CSS Modules, Stylus, Prettier, ESLint, Husky</p>
+</p>
+
+### Backend technologies that I use
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sqlite,sequelize,mongodb,nginx" />
+  </a>
+</p>
+
+### Wish to learn
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,angular,jest,nestjs,graphql,redis" />
+  </a>
+</p>
