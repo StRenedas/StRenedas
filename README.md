@@ -1,5 +1,5 @@
 # Hi 👋, I'm Stanislav
-## A Frontend Developer in Saint Petersburg
+## A Frontend Developer from Saint Petersburg
 
 * 🌍 I'm based in Chelyabinsk/Saint Petersburg, Russia
 * ✉️ Feel free to contact me at [strenedas@gmail.com](mailto:strenedas@gmail.com)
